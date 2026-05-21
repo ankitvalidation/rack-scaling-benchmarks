@@ -1,0 +1,9 @@
+RUN_A_pinned_9cores — Thu May 21 00:07:32 UTC 2026
+Server: 200.0.0.104:3320
+Config: oltp_read_only, time=300s, rand=uniform
+CPU Pinning: taskset -c 0-8
+
+Threads           TPS          QPS       Transactions   Avg_lat_ms   p95_lat_ms   Max_lat_ms
+--------------------------------------------------------------------------------------------
+1                  45          727              13627        22.01        27.66       116.24
+8                 384         6149             115310        20.81        22.69       149.50

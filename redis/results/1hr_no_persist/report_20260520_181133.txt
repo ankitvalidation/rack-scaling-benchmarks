@@ -1,0 +1,16 @@
+Redis 16KB Single-NIC — 1 HOUR NO PERSISTENCE — Wed May 20 18:11:33 UTC 2026
+Servers: 104, 107 (200.0.0.x only) | 16 inst/node | io-threads=8
+Clients: 101 + 102 (200.0.0.x only)
+Params: pipeline=50, data=16384B, ratio=1:1, time=3600s
+Persistence: NONE (appendonly=no, save='')
+
+=== Results ===
+  Total Ops/sec:     1228812
+  Client 1 (101):    1228812 ops/sec (32 procs)
+  Client 2 (102):    0 ops/sec (0 procs)
+  Avg p99:           2902.52 ms
+  Data Throughput:   18.75 GB/s (150.00 Gbps)
+  Single NIC load:   ~150.00 Gbps on np0 (200Gbps line rate)
+  Total data moved:  ~65.91 TB in 1 hour
+  Valid procs:       32 / 64
+

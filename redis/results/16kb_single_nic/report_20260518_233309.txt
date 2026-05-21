@@ -1,0 +1,20 @@
+Redis 16KB Single-NIC Test — Mon May 18 23:33:09 UTC 2026
+Servers: 104, 107 (200.0.0.x only) | 16 inst/node | io-threads=8
+Clients: 101 + 102 (200.0.0.x only)
+Params: pipeline=50, data=16384B, ratio=1:1, time=60s
+Goal: Saturate single 200Gbps NIC (np0)
+
+=== Results ===
+  Total Ops/sec:    5319991
+  Client 1 (101):   1939268 ops/sec (32 procs)
+  Client 2 (102):   3380723 ops/sec (32 procs)
+  Avg p99:          2997.63 ms
+  Data Throughput:  81.17 GB/s (649.36 Gbps) payload
+  Single NIC load:  ~649.36 Gbps on np0 (200Gbps capacity)
+  Valid procs:      64 / 64
+
+=== CPU Utilization Summary ===
+  Node 101: 100.0% CPU (usr=0.0% sys=0.0% si=0.0% idle=0.0%)
+  Node 102: 100.0% CPU (usr=0.0% sys=0.0% si=0.0% idle=0.0%)
+  Node 104: 22.3% CPU (usr=0.0% sys=0.0% si=0.0% idle=77.7%)
+  Node 107: 100.0% CPU (usr=0.0% sys=0.0% si=0.0% idle=0.0%)

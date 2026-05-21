@@ -1,0 +1,29 @@
+Supermicro FatTwin Comparison — Tue May 19 00:37:22 UTC 2026
+
+THEIR CONFIG:
+  Platform: Supermicro X12 FatTwin, 3 nodes
+  CPU: Dual Xeon Gold 6330N (112 vCores/node = 336 total)
+  Network: 10 Gbps
+  Shards: 108 primary + 108 replica
+  memtier: pipeline=8, threads=64, clients=1, data=512B
+  Persistence: appendfsync everysec (local SSD)
+  Peak: 1,630,000 ops/sec (70/30 GET/SET)
+
+OUR CONFIG:
+  Platform: 160-core nodes × 2 (320 cores total)
+  Network: 200 Gbps (20× theirs)
+  Shards: 108 (54/node × 2 nodes, no replicas)
+  memtier: SAME params (pipeline=8, threads=64, clients=1, data=512B)
+  Persistence: appendfsync everysec (local storage)
+
+RESULTS:
+
+=== SINGLE PROCESS (exact Supermicro match) ===
+70_30_mix (single proc): 7772551 ops/sec | avg: 0.00 ms | p99: 7.84456 ms
+100_get (single proc): 16886378 ops/sec | avg: 0.00 ms | p99: 3.26819 ms
+100_set (single proc): 2086744 ops/sec | avg: 0.00 ms | p99: 26.47933 ms
+
+=== SCALED (6 procs total, 2 clients) ===
+70_30_mix (scaled 6 procs): 5325504 ops/sec | p99: 76.51 ms
+100_get (scaled 5 procs): 11896270 ops/sec | p99: 60.98 ms
+100_set (scaled 6 procs): 2664355 ops/sec | p99: 270.69 ms

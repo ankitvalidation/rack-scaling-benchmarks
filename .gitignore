@@ -1,0 +1,10 @@
+# Logs from iterative runs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*~
+
+# OS
+.DS_Store
