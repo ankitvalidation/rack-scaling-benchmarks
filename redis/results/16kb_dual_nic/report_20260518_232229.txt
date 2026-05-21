@@ -1,0 +1,18 @@
+Redis 16KB Test — Mon May 18 23:22:29 UTC 2026
+Servers: 104, 107 (dual-NIC) | 16 inst/node | io-threads=8
+Clients: 101 (local) + 102 (fire-and-forget)
+Params: pipeline=50, data=16384B, ratio=1:1, time=60s
+
+=== Results ===
+  Total Ops/sec:    4582348
+  Client 1 (101):   1741644 ops/sec (32 procs)
+  Client 2 (102):   2840704 ops/sec (32 procs)
+  Avg p99:          1952.25 ms
+  Data Throughput:  69.92 GB/s (559.36 Gbps) payload
+  Valid procs:      64 / 64
+
+=== CPU Utilization Summary ===
+  Node 101: 100.0% used (usr=0.0% sys=0.0% softirq=0.0% idle=0.0%)
+  Node 102: 100.0% used (usr=0.0% sys=0.0% softirq=0.0% idle=0.0%)
+  Node 104: 22.7% used (usr=0.0% sys=0.0% softirq=0.0% idle=77.3%)
+  Node 107: 100.0% used (usr=0.0% sys=0.0% softirq=0.0% idle=0.0%)

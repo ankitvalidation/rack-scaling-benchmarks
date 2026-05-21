@@ -1,0 +1,35 @@
+ 
+:: initializing oneAPI environment ...
+   bash: BASH_VERSION = 5.2.26(1)-release
+   args: Using "$@" for setvars.sh arguments: 
+:: advisor -- latest
+:: ccl -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dnnl -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: umf -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+ 
+32        Threads
+5         Connections per thread
+60        Seconds
+
+
+ALL STATS
+======================================================================================================================================================
+Type         Ops/sec     Hits/sec   Misses/sec    MOVED/sec      ASK/sec    Avg. Latency     p50 Latency     p99 Latency   p99.9 Latency       KB/sec 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Sets        46280.61          ---          ---         0.00         0.00        99.78810        31.10300      1302.52700      2572.28700     13734.51 
+Gets        46270.84      7399.36     38871.48         0.00         0.00        99.52190        31.10300      1294.33500      2555.90300      3673.98 
+Waits           0.00          ---          ---          ---          ---             ---             ---             ---             ---          --- 
+Totals      92551.45      7399.36     38871.48         0.00         0.00        99.65502        31.10300      1302.52700      2572.28700     17408.49 

@@ -8,3 +8,7 @@
 
 # OS
 .DS_Store
+
+# But keep benchmark logs we want tracked
+!mysql/benchmark.log
+!mysql/prepare.log

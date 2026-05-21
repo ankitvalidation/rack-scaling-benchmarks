@@ -1,0 +1,78 @@
+nohup: ignoring input
+===============================================================================
+ MySQL oltp_read_only Thread Sweep
+ Server: 200.0.0.104:3320 (node 104)
+ Client: local (node 101, 160 cores)
+ Dataset: 60 tables × 100M rows
+ Duration: 300s per thread count
+ Thu May 21 00:07:32 UTC 2026
+===============================================================================
+
+==================================================================
+ RUN_A_pinned_9cores — Thread Sweep
+ Thu May 21 00:07:32 UTC 2026
+==================================================================
+
+--- Threads: 1 (300s) ---
+  Restarting MySQL with CPU pinning: taskset -c 0-8
+ 
+ 
+mysqld is alive
+  TPS: 45 | QPS: 727 | avg: 22.01ms | p95: 27.66ms
+
+--- Threads: 8 (300s) ---
+  TPS: 384 | QPS: 6149 | avg: 20.81ms | p95: 22.69ms
+
+--- Threads: 16 (300s) ---
+  TPS: 846 | QPS: 13542 | avg: 18.90ms | p95: 20.74ms
+
+--- Threads: 32 (300s) ---
+  TPS: 2249 | QPS: 35990 | avg: 14.22ms | p95: 16.41ms
+
+--- Threads: 64 (300s) ---
+  TPS:  | QPS:  | avg: ms | p95: ms
+
+--- Threads: 128 (300s) ---
+  TPS:  | QPS:  | avg: ms | p95: ms
+
+--- Threads: 224 (300s) ---
+  TPS:  | QPS:  | avg: ms | p95: ms
+
+--- Threads: 320 (300s) ---
+  TPS:  | QPS:  | avg: ms | p95: ms
+
+--- Threads: 512 (300s) ---
+  TPS:  | QPS:  | avg: ms | p95: ms
+
+Results saved to: /root/mysql-scaling-test/results/RUN_A_pinned_9cores_20260521_000732.txt
+RUN_A_pinned_9cores — Thu May 21 00:07:32 UTC 2026
+Server: 200.0.0.104:3320
+Config: oltp_read_only, time=300s, rand=uniform
+CPU Pinning: taskset -c 0-8
+
+Threads           TPS          QPS       Transactions   Avg_lat_ms   p95_lat_ms   Max_lat_ms
+--------------------------------------------------------------------------------------------
+1                  45          727              13627        22.01        27.66       116.24
+8                 384         6149             115310        20.81        22.69       149.50
+16                846        13542             253932        18.90        20.74       147.62
+32               2249        35990             674976        14.22        16.41        84.53
+64                                                                                          
+128                                                                                         
+224                                                                                         
+320                                                                                         
+512                                                                                         
+
+=== Restarting MySQL without CPU pinning (all 160 cores) ===
+ 
+ 
+mysqld is alive
+
+==================================================================
+ RUN_B_unconstrained_160cores — Thread Sweep
+ Thu May 21 00:32:32 UTC 2026
+==================================================================
+
+--- Threads: 1 (300s) ---
+  TPS: 46 | QPS: 734 | avg: 21.81ms | p95: 28.16ms
+
+--- Threads: 8 (300s) ---

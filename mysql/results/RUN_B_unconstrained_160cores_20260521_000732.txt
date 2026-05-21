@@ -1,0 +1,8 @@
+RUN_B_unconstrained_160cores — Thu May 21 00:32:32 UTC 2026
+Server: 200.0.0.104:3320
+Config: oltp_read_only, time=300s, rand=uniform
+CPU Pinning: NONE (all cores)
+
+Threads           TPS          QPS       Transactions   Avg_lat_ms   p95_lat_ms   Max_lat_ms
+--------------------------------------------------------------------------------------------
+1                  46          734              13757        21.81        28.16       193.49

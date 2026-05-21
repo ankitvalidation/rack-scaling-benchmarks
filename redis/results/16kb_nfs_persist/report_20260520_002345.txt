@@ -1,0 +1,21 @@
+Redis 16KB Single-NIC + NFS — 1 HOUR — Wed May 20 00:23:45 UTC 2026
+Servers: 104, 107 (data=200.0.0.x, storage=220.0.0.x/NFS)
+Clients: 101 + 102 (200.0.0.x only)
+Persistence: appendonly=yes, appendfsync=no → /mnt/nfs_rack/redis-1hr-test
+Params: pipeline=50, data=16384B, ratio=3:1 (write-heavy), time=3600s
+
+=== Results ===
+  Total Ops/sec:     289335
+  Client 1 (101):    146367 ops/sec (32 procs)
+  Client 2 (102):    142967 ops/sec (32 procs)
+  Avg p99:           61304.83 ms
+  Data Throughput:   4.41 GB/s (35.28 Gbps)
+  Single NIC load:   ~35.28 Gbps on np0 (200Gbps line rate)
+  Total data moved:  ~15.52 TB in 1 hour
+  Valid procs:       64 / 64
+
+
+=== NFS Storage ==
+  Total AOF data on NFS: 1.2T
+  Node 104: 505G
+  Node 107: 680G

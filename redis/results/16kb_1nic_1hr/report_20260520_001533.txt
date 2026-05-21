@@ -1,0 +1,7 @@
+Redis 16KB Single-NIC — 1 HOUR SUSTAINED — Wed May 20 00:15:33 UTC 2026
+Servers: 104, 107 (200.0.0.x only) | 16 inst/node | io-threads=8
+Clients: 101 + 102 (200.0.0.x only)
+Params: pipeline=50, data=16384B, ratio=1:1, time=3600s
+
+=== Results ===
+  ERROR: no valid results
