@@ -95,16 +95,6 @@ for s in servers:
                                 linestyle='dotted',
                                 connectionstyle='arc3,rad=0'))
 
-# Annotation: how it splits
-split_box = FancyBboxPatch((4.3, 4.2), 3.4, 2.0,
-                           boxstyle="round,pad=0.12", facecolor='#21262d', edgecolor='#484f58', linewidth=1)
-ax.add_patch(split_box)
-ax.text(6.0, 5.9, 'Per-Server Split', ha='center', va='center', fontsize=9, fontweight='bold', color='white')
-ax.text(6.0, 5.5, '8 procs: Client1 \u2192 NIC1 (200.x)', ha='center', va='center', fontsize=7.5, color=nic1_color)
-ax.text(6.0, 5.15, '8 procs: Client1 \u2192 NIC2 (220.x)', ha='center', va='center', fontsize=7.5, color=nic2_color)
-ax.text(6.0, 4.8, '8 procs: Client2 \u2192 NIC1 (200.x)', ha='center', va='center', fontsize=7.5, color=nic1_color)
-ax.text(6.0, 4.45, '8 procs: Client2 \u2192 NIC2 (220.x)', ha='center', va='center', fontsize=7.5, color=nic2_color)
-
 # NFS annotation
 ax.text(6.0, 1.9, 'AOF persistence via NIC2 (220.0.0.x)',
         ha='center', va='center', fontsize=8, color=storage_color, fontstyle='italic')
@@ -121,10 +111,6 @@ ax.text(6.0, legend_y, 'NIC2 (220.0.0.x) \u2014 200 Gbps', va='center', fontsize
 
 ax.plot([9.5, 10.3], [legend_y, legend_y], color=storage_color, lw=2.5, linestyle='dotted')
 ax.text(10.5, legend_y, 'NFS writes (220.x)', va='center', fontsize=7.5, color=storage_color)
-
-# Totals
-ax.text(6.0, 3.3, '= 32 procs per server  \u00d7  2 servers  =  64 total processes',
-        ha='center', va='center', fontsize=8, fontweight='bold', color='#c9d1d9')
 
 plt.tight_layout(pad=0.5)
 plt.savefig('/root/rack-scaling-benchmarks/redis/diagrams/redis_topology.png', dpi=150, bbox_inches='tight',
