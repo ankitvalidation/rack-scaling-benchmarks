@@ -1,0 +1,1823 @@
+Writing results to stdout
+[RUN #1] Preparing benchmark client...
+[RUN #1] Launching threads now...
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+Restarting thread 0 (restart #1)...
+Thread 0 restarted successfully.
+Restarting thread 1 (restart #1)...
+Thread 1 restarted successfully.
+Restarting thread 2 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+Thread 2 restarted successfully.
+Restarting thread 3 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+Thread 3 restarted successfully.
+Restarting thread 4 (restart #1)...
+Thread 4 restarted successfully.
+Restarting thread 5 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+Thread 5 restarted successfully.
+Restarting thread 6 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+Thread 6 restarted successfully.
+Restarting thread 7 (restart #1)...
+Thread 7 restarted successfully.
+Restarting thread 8 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+Thread 8 restarted successfully.
+Restarting thread 9 (restart #1)...
+Thread 9 restarted successfully.
+Restarting thread 10 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+Thread 10 restarted successfully.
+Restarting thread 11 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+Thread 11 restarted successfully.
+Restarting thread 12 (restart #1)...
+Thread 12 restarted successfully.
+Restarting thread 13 (restart #1)...
+Thread 13 restarted successfully.
+Restarting thread 14 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+Thread 14 restarted successfully.
+Restarting thread 15 (restart #1)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+Thread 15 restarted successfully.
+[RUN #1 0%,   0 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  0.00 (avg:  0.00) msec latencyerror: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+Restarting thread 0 (restart #2)...
+Thread 0 restarted successfully.
+Restarting thread 1 (restart #2)...
+Thread 1 restarted successfully.
+Restarting thread 2 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+Thread 2 restarted successfully.
+Restarting thread 3 (restart #2)...
+Thread 3 restarted successfully.
+Restarting thread 4 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+Thread 4 restarted successfully.
+Restarting thread 5 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+Thread 5 restarted successfully.
+Restarting thread 6 (restart #2)...
+Thread 6 restarted successfully.
+Restarting thread 7 (restart #2)...
+Thread 7 restarted successfully.
+Restarting thread 8 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+Thread 8 restarted successfully.
+Restarting thread 9 (restart #2)...
+Thread 9 restarted successfully.
+Restarting thread 10 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+Thread 10 restarted successfully.
+Restarting thread 11 (restart #2)...
+Thread 11 restarted successfully.
+Restarting thread 12 (restart #2)...
+Thread 12 restarted successfully.
+Restarting thread 13 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+Thread 13 restarted successfully.
+Restarting thread 14 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+Thread 14 restarted successfully.
+Restarting thread 15 (restart #2)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+Thread 15 restarted successfully.
+[RUN #1 0%,   0 secs] 15 threads 25 conns 1 conn errors:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  0.00 (avg:  -nan) msec latencyerror: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+Restarting thread 0 (restart #3)...
+Thread 0 restarted successfully.
+Restarting thread 1 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+Thread 1 restarted successfully.
+Restarting thread 2 (restart #3)...
+Thread 2 restarted successfully.
+Restarting thread 3 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+Thread 3 restarted successfully.
+Restarting thread 4 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+Thread 4 restarted successfully.
+Restarting thread 5 (restart #3)...
+Thread 5 restarted successfully.
+Restarting thread 6 (restart #3)...
+Thread 6 restarted successfully.
+Restarting thread 7 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+Thread 7 restarted successfully.
+Restarting thread 8 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+Thread 8 restarted successfully.
+Restarting thread 9 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+Thread 9 restarted successfully.
+Restarting thread 10 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+Thread 10 restarted successfully.
+Restarting thread 11 (restart #3)...
+Thread 11 restarted successfully.
+Restarting thread 12 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+Thread 12 restarted successfully.
+Restarting thread 13 (restart #3)...
+Thread 13 restarted successfully.
+Restarting thread 14 (restart #3)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+Thread 14 restarted successfully.
+Restarting thread 15 (restart #3)...
+Thread 15 restarted successfully.
+[RUN #1 0%,   0 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  0.00) msec latencyerror: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+Restarting thread 0 (restart #4)...
+Thread 0 restarted successfully.
+Restarting thread 1 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+Thread 1 restarted successfully.
+Restarting thread 2 (restart #4)...
+Thread 2 restarted successfully.
+Restarting thread 3 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+Thread 3 restarted successfully.
+Restarting thread 4 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+Thread 4 restarted successfully.
+Restarting thread 5 (restart #4)...
+Thread 5 restarted successfully.
+Restarting thread 6 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+Thread 6 restarted successfully.
+Restarting thread 7 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+Thread 7 restarted successfully.
+Restarting thread 8 (restart #4)...
+Thread 8 restarted successfully.
+Restarting thread 9 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+Thread 9 restarted successfully.
+Restarting thread 10 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+Thread 10 restarted successfully.
+Restarting thread 11 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+Thread 11 restarted successfully.
+Restarting thread 12 (restart #4)...
+Thread 12 restarted successfully.
+Restarting thread 13 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+Thread 13 restarted successfully.
+Restarting thread 14 (restart #4)...
+Thread 14 restarted successfully.
+Restarting thread 15 (restart #4)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+Thread 15 restarted successfully.
+[RUN #1 0%,   0 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  -nan) msec latencyerror: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+Restarting thread 0 (restart #5)...
+Thread 0 restarted successfully.
+Restarting thread 1 (restart #5)...
+Thread 1 restarted successfully.
+Restarting thread 2 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 1 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+Thread 2 restarted successfully.
+Restarting thread 3 (restart #5)...
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 0 finished due to connection failures, requesting restart.
+Thread 3 restarted successfully.
+Restarting thread 4 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 2 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 3 finished due to connection failures, requesting restart.
+Thread 4 restarted successfully.
+Restarting thread 5 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 4 finished due to connection failures, requesting restart.
+Thread 5 restarted successfully.
+Restarting thread 6 (restart #5)...
+Thread 6 restarted successfully.
+Restarting thread 7 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 5 finished due to connection failures, requesting restart.
+Thread 7 restarted successfully.
+Restarting thread 8 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 6 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 7 finished due to connection failures, requesting restart.
+Thread 8 restarted successfully.
+Restarting thread 9 (restart #5)...
+Thread 9 restarted successfully.
+Restarting thread 10 (restart #5)...
+Thread 10 restarted successfully.
+Restarting thread 11 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 9 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 8 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 10 finished due to connection failures, requesting restart.
+Thread 11 restarted successfully.
+Restarting thread 12 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 11 finished due to connection failures, requesting restart.
+Thread 12 restarted successfully.
+Restarting thread 13 (restart #5)...
+Thread 13 restarted successfully.
+Restarting thread 14 (restart #5)...
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 13 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 12 finished due to connection failures, requesting restart.
+Thread 14 restarted successfully.
+Restarting thread 15 (restart #5)...
+Thread 15 restarted successfully.
+[RUN #1 0%,   0 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  0.00) msec latencyerror: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 14 finished due to connection failures, requesting restart.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+error: response parsing failed.
+connection dropped.
+Maximum reconnection attempts (0) exceeded for Connection dropped, triggering thread restart.
+Thread 15 finished due to connection failures, requesting restart.
+[RUN #1 2%,   1 secs]  0 threads 25 conns 16 conn errors:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  -nan) msec latency
+
+16        Threads
+25        Connections per thread
+60        Seconds
+
+
+ALL STATS
+============================================================================================================================
+Type         Ops/sec     Hits/sec   Misses/sec    Avg. Latency     p50 Latency     p99 Latency   p99.9 Latency       KB/sec 
+----------------------------------------------------------------------------------------------------------------------------
+Sets            0.00          ---          ---             ---             ---             ---             ---         0.00 
+Gets            0.00         0.00         0.00             ---             ---             ---             ---         0.00 
+Waits           0.00          ---          ---             ---             ---             ---             ---          --- 
+Totals          0.00         0.00         0.00            -nan         0.00700         0.00700         0.00700         0.00 

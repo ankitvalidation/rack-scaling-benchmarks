@@ -1,0 +1,4 @@
+Writing results to stdout
+[RUN #1] Preparing benchmark client...
+[RUN #1] Launching threads now...
+[RUN #1 1%,   0 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  -nan) msec latency[RUN #1 2%,   1 secs] 16 threads 25 conns:           0 ops,       0 (avg:       0) ops/sec, 0.00KB/sec (avg: 0.00KB/sec),  -nan (avg:  -nan) msec latencyerror: response parsing failed.
